@@ -1,4 +1,4 @@
-# SOCIAL MEDIA ENGAGEMENT ANALYSIS — SUMMARY REPORT
+# SOCIAL MEDIA ENGAGEMENT ANALYSIS 
 
 ## OBJECTIVE
 This project analyzes social media engagement data to understand audience behavior, content performance, sentiment impact, device usage, and engagement trends using Python, Pandas, Matplotlib, Seaborn, and Plotly.
